@@ -2,9 +2,9 @@
 
 I am a software developer specializing in high-performance systems, machine learning applications, and cybersecurity tools.
 
-### ⚡ TL;DR — High-Impact Projects in 10 Seconds
+### ⚡Projects I have worked on
 
-*   📈 **NEXUS** *(Private)*: Autonomous MT5 gold trading orchestrator using a local **300-tree Random Forest Classifier** to validate signals and reject sub-optimal setups.
+*   📈 **NEXUS** *(Private)*: Autonomous MT5 gold trading orchestrator using a local **300-tree Random Forest Classifier** to validate signals and reject sub-optimal setups (still in development).
 *   ⚡ **StorageClear**: Windows TUI disk space analyzer scanning **500,000+ files in under 3 seconds** using high-speed, non-blocking traversals.
 *   🛡️ **PacketReaper**: Linux MITM tool enabling **full-duplex ARP spoofing** and live subnet analysis.
 *   📷 **Lumina**: Enterprise-grade AI photo tool with permanent Cloudinary storage and real-time telemetry.
