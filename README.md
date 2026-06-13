@@ -8,7 +8,7 @@ I am a software developer passionate about building high-performance systems, ro
 
 Here are a few of the best projects I've developed:
 
-*   **NEXUS** *(Private)* — An autonomous, institutional-grade quantitative trading orchestrator for Gold (`XAUUSD`) on MetaTrader 5. It uses a dynamic regime system across 5 engines (SMC Order Blocks, FVG, VWAP Reversion, RSI, and Bollinger Bands) and filters setup signals through a local machine learning gatekeeper (Random Forest Classifiers).
+*   **NEXUS** *(Private Repository — demo / code access available upon request)* — An autonomous, institutional-grade quantitative trading orchestrator for Gold (`XAUUSD`) on MetaTrader 5. It uses a dynamic regime system across 5 engines (SMC Order Blocks, FVG, VWAP Reversion, RSI, and Bollinger Bands) and filters setup signals through a local machine learning gatekeeper (Random Forest Classifiers).
 *   **[Lumina](https://github.com/Ugochi56/Lumina)** — An enterprise-grade AI photo editing and management tool featuring permanent Cloudinary storage integration, dynamic subscriptions, and real-time backend telemetry.
 *   **[StorageClear](https://github.com/Ugochi56/StorageClear)** — A lightning-fast, interactive Windows Terminal User Interface (TUI) disk space analyzer and reclaimer.
 *   **[PacketReaper](https://github.com/Ugochi56/PacketReaper)** — A security and network scanning tool built for Linux, enabling full-duplex ARP spoofing, traffic interception, and live network analysis.
