@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ugochukwu!
 
-I am a software developer specializing in high-performance systems, machine learning applications, and cybersecurity tools.
+I am a fullstack software developer specializing in high-performance systems, machine learning applications, and cybersecurity tools.
 
 ### ⚡Projects I have worked on
 
