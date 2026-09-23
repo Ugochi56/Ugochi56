@@ -2,6 +2,9 @@
 
 I am a fullstack software developer specializing in high-performance systems, machine learning applications, and cybersecurity tools.
 
+# 📄 [Download my Resume / CV](./.pdf)
+
+
 ### ⚡Projects I have worked on
 
 *   📈 **NEXUS** *(Private)*: Autonomous MT5 gold trading orchestrator using a local **300-tree Random Forest Classifier** to validate signals and reject sub-optimal setups (still in development).
