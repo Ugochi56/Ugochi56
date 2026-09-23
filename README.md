@@ -2,7 +2,7 @@
 
 I am a fullstack software developer specializing in high-performance systems, machine learning applications, and cybersecurity tools.
 
-# 📄 [Download my Resume / CV](./.pdf)
+# 📄 [Download my Resume / CV](./Ofuzor_Ugochukwu_Ikechukwu_Backend-CV.pdf)
 
 
 ### ⚡Projects I have worked on
